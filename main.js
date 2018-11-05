@@ -1,4 +1,4 @@
-var countDownDate = new Date("Oct 31, 2018").getTime();
+var countDownDate = new Date("Oct 31, 2019").getTime();
 var x = setInterval(function() {
 
 // Get todays date and time
